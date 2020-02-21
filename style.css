@@ -1,0 +1,124 @@
+body{
+    font-family: 'Ubuntu';
+
+}
+
+h1{
+    font-size: 50px;
+    
+}
+
+.name-color{
+    color: red;
+}
+.half-width{
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+    
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, deeppink, deeppink);
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    
+}
+#headline-portfolio{
+    text-align: center;
+}
+
+.img-resize{
+
+    width: 30%;
+    height: auto;
+    margin: 5px 10px;
+    align-items: center;
+    
+    
+}
+
+#box-img{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.my-latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+#client-headline{
+        text-align: center;
+        font-size: 200%;
+        padding-bottom: 40px;
+}
+#client-name{
+    text-align: center;
+}
+#client-position{
+    text-align: center;
+    color: gray;
+    
+}
+.client-comment{
+    text-align: center;
+    
+}
+
+#contact-us{
+    text-align: center;
+    color: white;
+    background: deeppink;
+    border-radius: 15px;
+    overflow: hidden;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    
+}
+
+.footer{
+    text-align: center;
+    padding-top: 150px;
+}
+.footer-area{
+    background-image: url("images/footer-bg.png");
+    background-size: cover;
+}
+
+
+
+
+
+
